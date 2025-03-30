@@ -1,1 +1,1 @@
-
+Experienced Software Engineer/Assistant Manager proficient in backend development with Node.js. Skilled in designing and implementing scalable server-side solutions, APIs, and microservices. Strong leadership capabilities with a track record of managing teams and driving project success. Expertise in JavaScript, RESTful APIs, database management, and cloud services. Committed to delivering high-quality software solutions and fostering team growth and innovation.
